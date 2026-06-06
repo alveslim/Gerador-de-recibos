@@ -9,3 +9,5 @@
 Uma profissional (Karina Vilela, de nome fictício) precisa automatizar a geração de recibos via PDF e para isso, entrou em contato comigo para ajudá-la.
 
 Ela possui um template que já utiliza em seus recibos manuais e agora precisa de um programa em Python que poderá automatizar essa geração do recibo.
+
+![Recibo](static/rec.jpg)
